@@ -1,0 +1,84 @@
+
+h1 {
+  font-size: 400%;
+}
+
+button {
+  color: white;
+}
+/* background: linear-gradient(45deg, #000850 0%, #000320 100%), radial-gradient(100% 225% at 100% 0%, #FF6928 0%, #000000 100%), linear-gradient(225deg, #FF7A00 0%, #000000 100%), linear-gradient(135deg, #CDFFEB 10%, #CDFFEB 35%, #009F9D 35%, #009F9D 60%, #07456F 60%, #07456F 67%, #0F0A3C 67%, #0F0A3C 100%);
+background-blend-mode: screen, overlay, hard-light, normal; */
+
+.masthead {
+
+}
+
+.container {
+  padding: 0;
+}
+
+.subheading{
+  color: red;
+}
+
+.site-heading {
+  text-align: center;
+  color: white;
+  padding: 15% 4% 30%;
+}
+
+
+#footer {
+  background: linear-gradient(45deg, #000850 0%, #000320 100%), radial-gradient(100% 225% at 100% 0%, #FF6928 0%, #000000 100%), linear-gradient(225deg, #FF7A00 0%, #000000 100%), linear-gradient(135deg, #CDFFEB 10%, #CDFFEB 35%, #009F9D 35%, #009F9D 60%, #07456F 60%, #07456F 67%, #0F0A3C 67%, #0F0A3C 100%);
+  background-blend-mode: screen, overlay, hard-light, normal;
+  text-align: center;
+  padding: 5%;
+}
+
+#contact {
+    padding: 3%;
+}
+
+
+.socials {
+  font-size: 200%;
+  padding-left: 15px;
+}
+
+#features{
+    position: relative;
+    padding: 5%;
+    margin: 10px,
+
+}
+
+.icon {
+  color: red;
+  font-size: 300%;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+#mainNav .nav-link {
+  color: white;
+  padding: 10px 15px;
+}
+
+#mainNav .navbar-brand {
+  color: white;
+  font-size: 200%;
+  padding: 10px 15px;
+}
+
+#mainNav .nav-button {
+  color: white;
+}
+
+#grey-section {
+  background: linear-gradient(45deg, #000850 0%, #000320 100%), radial-gradient(100% 225% at 100% 0%, #FF6928 0%, #000000 100%), linear-gradient(225deg, #FF7A00 0%, #000000 100%), linear-gradient(135deg, #CDFFEB 10%, #CDFFEB 35%, #009F9D 35%, #009F9D 60%, #07456F 60%, #07456F 67%, #0F0A3C 67%, #0F0A3C 100%);
+  background-blend-mode: screen, overlay, hard-light, normal;
+  padding: 10%;
+}
+
+#grey-section img {
+  height: 400px;
