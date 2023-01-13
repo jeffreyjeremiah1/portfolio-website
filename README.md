@@ -1,3 +1,3 @@
 # portfolio-website
-my personal site
-Simple web page to view my portfolio projects 
+
+This simple personal website is created using HTML and showcases basic information about the individual. The website includes an "About Me" page with a brief biography and a photo of the person. The website also has a "Contact Me" page where visitors can find the person's email address and social media links. The website is designed with a clean and minimalistic layout, making it easy to navigate. The website is also optimized for mobile devices, ensuring it can be viewed easily on any device. Overall, this website provides a simple yet effective way for the individual to present themselves to the online world.
